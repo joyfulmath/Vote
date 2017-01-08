@@ -1,4 +1,7 @@
 bcc
 commit1
+<<<<<<< HEAD
 commit2
 commit3
+=======
+>>>>>>> parent of 1be9218... commit 2
